@@ -4,6 +4,7 @@ out/**/
 !out/Vault.sol/
 !out/VaultTokenized.sol/
 !out/NetworkRestakeDelegator.sol/
+!out/IsolatedOperatorDelegator.sol/
 !out/FullRestakeDelegator.sol/
 !out/OperatorSpecificDelegator.sol/
 !out/OperatorNetworkSpecificDelegator.sol/
